@@ -1,0 +1,17 @@
+89d01713f8a03a36f53df158bdc447d0 *DESCRIPTION
+151af0001184e8edd2d2b462ffbc487e *NAMESPACE
+d6e235efd9154cd9314246f2bac3a466 *R/main.R
+d227d5abd5abf4c6893f07b53cc9b09d *R/utils.R
+10a94947dc575479c4ca414f75b537f1 *README.md
+40a7af84b48c195184517dfdf9b5191f *man/A.Rd
+c32b2684f93e833baef0e60f2c2548e8 *man/Sigma_cal.Rd
+e834f32705276c154023bc8d411037b2 *man/est_ini.Rd
+92ff124b8fdce2e25a7d0c47be66db13 *man/link_Hessian.Rd
+c2e79a859741b6dc3a2ef6352dd5d882 *man/link_grad.Rd
+38ef55ec8943ee911253f8bab022eb90 *man/mean_psi.Rd
+7b9158aa019ce6067ba131328bebb2f0 *man/mean_psi_pop.Rd
+f5784c31bfa5eb5451d20c162226edcb *man/optim_est.Rd
+237c6760b3961f3bf4de3c816a9f1236 *man/optim_weights.Rd
+39a77288d8f165a59d023ae12857c9ea *man/pop_M.Rd
+e8a24f679fcf37a9534b5f85b665912e *man/psi.Rd
+065180da567a587ea8f6952598f117e9 *man/sim_data.Rd
